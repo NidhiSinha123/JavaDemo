@@ -1,10 +1,10 @@
-package com.cg.util;
+package com.cg.book_stores.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import com.cg.exception.MyException;
+import com.cg.book_stores.exception.MyException;
 
 
 

@@ -1,4 +1,4 @@
-package com.cg.util;
+package com.cg.book_stores.util;
 
 import java.io.FileInputStream;
 import java.sql.Connection;
@@ -8,7 +8,7 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-import com.cg.exception.MyException;
+import com.cg.book_stores.exception.MyException;
 
 public class DbUtil {
 	private static Logger myLogger;

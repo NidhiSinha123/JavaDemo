@@ -1,4 +1,4 @@
-package com.cg.exception;
+package com.cg.book_stores.exception;
 
 public class AuthorException extends Exception {
 	

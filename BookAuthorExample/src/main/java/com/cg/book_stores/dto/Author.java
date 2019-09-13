@@ -1,7 +1,8 @@
-package com.cg.dto;
+package com.cg.book_stores.dto;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
+import java.util.List;
 
 public class Author {
 	private int authorid;
@@ -9,18 +10,21 @@ public class Author {
 	private String middlename;
 	private String lastname;
 	private BigInteger phoneno;
+	private List<Book> listofbooks;
 	
 	public Author()
 	{
 		
 	}
-	public Author(int authorid, String firstname, String middlename, String lastname, BigInteger phoneno) {
+	public Author(int authorid, String firstname, String middlename, String lastname, BigInteger phoneno,
+			List<Book> listofbooks) {
 		super();
 		this.authorid = authorid;
 		this.firstname = firstname;
 		this.middlename = middlename;
 		this.lastname = lastname;
 		this.phoneno = phoneno;
+		this.listofbooks = listofbooks;
 	}
 	public int getAuthorid() {
 		return authorid;
@@ -52,10 +56,11 @@ public class Author {
 	public void setPhoneno(BigInteger phoneno) {
 		this.phoneno = phoneno;
 	}
-	@Override
-	public String toString() {
-		return "Author [authorid=" + authorid + ", firstname=" + firstname + ", middlename=" + middlename
-				+ ", lastname=" + lastname + ", phoneno=" + phoneno + "]";
+	public List<Book> getListofbooks() {
+		return listofbooks;
+	}
+	public void setListofbooks(List<Book> listofbooks) {
+		this.listofbooks = listofbooks;
 	}
 	@Override
 	public int hashCode() {
@@ -64,6 +69,7 @@ public class Author {
 		result = prime * result + authorid;
 		result = prime * result + ((firstname == null) ? 0 : firstname.hashCode());
 		result = prime * result + ((lastname == null) ? 0 : lastname.hashCode());
+		result = prime * result + ((listofbooks == null) ? 0 : listofbooks.hashCode());
 		result = prime * result + ((middlename == null) ? 0 : middlename.hashCode());
 		result = prime * result + ((phoneno == null) ? 0 : phoneno.hashCode());
 		return result;
@@ -89,6 +95,11 @@ public class Author {
 				return false;
 		} else if (!lastname.equals(other.lastname))
 			return false;
+		if (listofbooks == null) {
+			if (other.listofbooks != null)
+				return false;
+		} else if (!listofbooks.equals(other.listofbooks))
+			return false;
 		if (middlename == null) {
 			if (other.middlename != null)
 				return false;
@@ -101,7 +112,13 @@ public class Author {
 			return false;
 		return true;
 	}
-		
+	@Override
+	public String toString() {
+		return "Author [authorid=" + authorid + ", firstname=" + firstname + ", middlename=" + middlename
+				+ ", lastname=" + lastname + ", phoneno=" + phoneno + ", listofbooks=" + listofbooks + "]";
+	}
 	
+	
+		
 	
 }

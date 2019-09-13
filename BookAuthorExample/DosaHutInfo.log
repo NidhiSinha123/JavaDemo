@@ -18,3 +18,160 @@
 2019-09-12-main-INFO -DBUtil.class:Property File loaded : 
 2019-09-12-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
 2019-09-12-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Parameter index out of range (5 > number of parameters, which is 1).
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Parameter index out of range (5 > number of parameters, which is 2).
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Parameter index out of range (5 > number of parameters, which is 2).
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column Index out of range, 0 < 1.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column Index out of range, 0 < 1.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where a.authorid=b.authorid' at line 1
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where a.authorid=b.authorid' at line 1
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where a.authorid=b.authorid' at line 1
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Column 'authorcontact' not found.
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-ERROR-DBUtil.class:Error at addEmployee Dao method: Cannot delete or update a parent row: a foreign key constraint fails (`testdb`.`book`, CONSTRAINT `book_ibfk_1` FOREIGN KEY (`authorid`) REFERENCES `author` (`authorid`))
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
+2019-09-13-main-INFO -DBUtil.class:Property File loaded : 
+2019-09-13-main-INFO -DBUtil.class:connection Obtained! : com.mysql.cj.jdbc.ConnectionImpl@1810399e
+2019-09-13-main-INFO -DBUtil.class:connection obtained.....
