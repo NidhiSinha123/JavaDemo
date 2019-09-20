@@ -8,7 +8,8 @@
         com.cg.demojpa.dto.Employee
         </class>
       
-        
+         <class>com.cg.demojpa.dto.Address</class>
+         
         <properties>
             <!-- The JDBC driver of your database -->
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />

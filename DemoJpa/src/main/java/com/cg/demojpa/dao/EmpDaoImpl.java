@@ -11,6 +11,7 @@ import javax.persistence.Query;
 import javax.transaction.Transaction;
 
 import com.cg.demojpa.dto.Employee;
+import com.cg.demojpa.dto.Project;
 
 public class EmpDaoImpl implements  EmpDao {
 
@@ -23,6 +24,7 @@ public class EmpDaoImpl implements  EmpDao {
 		EntityManager em=entityFactory.createEntityManager();
 		EntityTransaction tran = em.getTransaction();
 		tran.begin();
+		//em.persist(emp.getProj());
 		em.persist(emp);
 		tran.commit();
 		return emp;
